@@ -1,6 +1,6 @@
 ##Caio Bruno Pitta Figueiredo <br>
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&?link=http://right" /> (https://www.linkedin.com/in/brunopittaf/) <br>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunopittaf/)](https://www.linkedin.com/in/brunopittaf/)
 [https://img.shields.io/badge/BrunoPitta-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white] (https://t.me/BrunoPitta)
 ### Hi there 👋,
 
