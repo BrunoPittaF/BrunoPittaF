@@ -1,7 +1,8 @@
 ##Caio Bruno Pitta Figueiredo <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunopittaf/)](https://www.linkedin.com/in/brunopittaf/)
-[https://img.shields.io/badge/BrunoPitta-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white] (https://t.me/BrunoPitta)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunopittaf/)](https://www.linkedin.com/in/brunopittaf/) <br>
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/BrunoPitta)](https://t.me/BrunoPitta)<br>
+
 ### Hi there 👋,
 
 i'm Caio Bruno. I'm front-end developer!
