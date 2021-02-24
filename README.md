@@ -5,8 +5,8 @@
 
 i'm Caio Bruno. I'm front-end developer!
 
-🔭 I’m currently working on VX Case
-🌱 I’m currently learning NextJs and in the future i will study PHP
-👯 I’m looking to collaborate on Html, CSS, JS and ReactJs!
-💬 Ask me about: :video_game: &nbsp; Games (I am a great mage in Dark Souls 😎), :computer: &nbsp; Tech and anime!
+🔭 I’m currently working on VX Case <br>
+🌱 I’m currently learning NextJs and in the future i will study PHP <br>
+👯 I’m looking to collaborate on Html, CSS, JS and ReactJs! <br>
+💬 Ask me about: :video_game: &nbsp; Games (I am a great mage in Dark Souls 😎), :computer: &nbsp; Tech and anime! <br>
 📫 How to reach me: Telegram is my favorite app!
